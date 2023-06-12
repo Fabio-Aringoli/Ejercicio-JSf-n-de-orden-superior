@@ -1,0 +1,6 @@
+#tablaCervezas table,
+#tablaCervezas table tr,
+#tablaCervezas table tr th,
+#tablaCervezas table tr td{
+    border: 1px solid black;
+}
